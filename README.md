@@ -116,27 +116,6 @@ http://127.0.0.1:5000
 
 ---
 
-## API Endpoints
-
-### `/`
-
-* Method: GET, POST
-* Description: Main route for disease prediction and recommendations
-
-### `/chat`
-
-* Method: POST
-* Description: AI chatbot endpoint
-* Example request:
-
-```json
-{
-  "message": "What foods are good for fever?"
-}
-```
-
----
-
 ## Text Cleaning Logic
 
 * Removes markdown formatting such as bold markers
@@ -165,8 +144,4 @@ It does not provide medical diagnosis or treatment and should not replace profes
 
 ## Author
 
-Rahul
-
-BTech Computer Science
-
-Focus Areas: AI, Machine Learning, Backend Development
+Rahul R
